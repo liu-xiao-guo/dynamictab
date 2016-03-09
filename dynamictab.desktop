@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=dynamictab
+Exec=qmlscene $@ Main.qml
+Icon=dynamictab.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

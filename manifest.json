@@ -1,0 +1,17 @@
+{
+    "name": "dynamictab.liu-xiao-guo",
+    "description": "description of dynamictab",
+    "architecture": "all",
+    "title": "dynamictab",
+    "hooks": {
+        "dynamictab": {
+            "apparmor": "dynamictab.apparmor",
+            "desktop":  "dynamictab.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+
